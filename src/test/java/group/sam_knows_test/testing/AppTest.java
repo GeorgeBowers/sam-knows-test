@@ -1,6 +1,6 @@
 package group.sam_knows_test.testing;
 
-import org.testng.annotations.Test;
+import org.junit.jupiter.api.Test;
 
 public class AppTest {
 
